@@ -17,9 +17,7 @@ This browser application will help users create a secure password that is as com
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-Once a user enters the web application, they will be prompted with an introductory alert asking if they want to generate a password.Once they click "OK" they will be able to click the main red button in the middle of the page marked "Generate Password". 
-
-Once clicked, multiple alters will prompt a series of questions determining their desired criteria for their password. The user will be able to chose the following criteria: length, lowercase, uppercase, numeric, and special characters. The application only requires the user to have a length between 8-128 chacters and for at least one chacter type to be selected. All other criteria are optional. 
+Once a user enters the web application, they will be able to click the main red button in the middle of the page marked "Generate Password". Once clicked, multiple alerts will prompt a series of questions determining their desired criteria for their password. The user will be able to chose the following criteria: length, lowercase, uppercase, numeric, and special characters. The application only requires the user to have a length between 8-128 chacters and for at least one chacter type to be selected. All other criteria are optional. 
 
 Once all the prompts have been correctly answered, a password is generated that matched the selected criteria and is displaed on the page. 
 
