@@ -19,7 +19,7 @@ Once a user enters the web application, they will be able to click the main red 
 
 ## Screenshot
 
-![application screenshot](./assets/images/screenshot.png)
+![application screenshot](/assets/images/screenshot.png)
 
 ## Credits
 
@@ -30,4 +30,4 @@ https://github.com/coding-boot-camp/friendly-parakeet
 
 GitHub Page: https://github.com/esanchez8k/challenge03-javascript#screenshot
 
-Deployed Application:
+Deployed Application: https://esanchez8k.github.io/challenge03-javascript/
