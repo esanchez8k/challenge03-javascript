@@ -19,7 +19,7 @@ Once a user enters the web application, they will be able to click the main red 
 
 ## Screenshot
 
-![application screenshot](develop/assets/images/screenshot.png)
+![application screenshot](Develop/assets/images/screenshot.png)
 
 ## Credits
 
