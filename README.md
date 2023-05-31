@@ -23,9 +23,7 @@ Once all the prompts have been correctly answered, a password is generated that 
 
 ## Screenshot
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+!(assets/images/screenshot.png)
 
 ## Credits
 
